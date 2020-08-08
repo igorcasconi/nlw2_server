@@ -11,6 +11,7 @@
 - Cors (Permissão de acesso ao retorno dos dados)
 
 ## Linguagem e Tecnologias
+- NodeJS
 - TypeScript
 - SQLite
 
